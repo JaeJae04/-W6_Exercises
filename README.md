@@ -1,1 +1,1 @@
-# exercies for week 6
+# exercises for week 6
